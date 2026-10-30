@@ -1,0 +1,10 @@
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\obj\Debug\TicTacToee.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\obj\Debug\TicTacToee.Form1.resources
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\obj\Debug\TicTacToee.Properties.Resources.resources
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\obj\Debug\TicTacToee.csproj.GenerateResource.cache
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\obj\Debug\TicTacToee.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\bin\Debug\TicTacToee.exe.config
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\bin\Debug\TicTacToee.exe
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\bin\Debug\TicTacToee.pdb
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\obj\Debug\TicTacToee.exe
+C:\Users\Ольга\Desktop\крест-0\TicTacToee\obj\Debug\TicTacToee.pdb
